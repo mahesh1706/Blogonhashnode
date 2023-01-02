@@ -18,17 +18,17 @@ The OpenAI API is a powerful tool that allows developers to access the capabilit
 
 Here are a few reasons why we need the OpenAI API:
 
-1. It helps bring AI to a wider audience
+* It helps bring AI to a wider audience
     
 
 One of the main benefits of the OpenAI API is that it makes it easier for developers to build AI applications. Without the API, developers would need to have a deep understanding of machine learning and the underlying models to be able to use them in their applications. With the API, developers can access the capabilities of advanced models such as GPT-3 and DALL-E without having to worry about technical details. This makes it possible for a wider range of people to build AI applications and contribute to the field.
 
-1. It enables the creation of more powerful and sophisticated applications
+* It enables the creation of more powerful and sophisticated applications
     
 
 The OpenAI API allows developers to access the full capabilities of OpenAI's machine learning models, which are some of the most advanced in the field. This means that developers can build applications that are more powerful and sophisticated than they would be able to create using other tools. For example, an application built with the OpenAI API could use natural language processing to understand and respond to user input in a way that is more human-like than other chatbots.
 
-1. It promotes responsible AI development
+* It promotes responsible AI development
     
 
 OpenAI is committed to promoting the responsible development of AI, and the API is an important part of this effort. By making its models and tools accessible to developers, OpenAI is helping to ensure that AI is developed in a way that is fair, accountable, and transparent. This is important as AI has the potential to impact society in significant ways and it is important to ensure that it is developed in a way that is beneficial to everyone.
